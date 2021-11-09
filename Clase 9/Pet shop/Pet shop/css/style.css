@@ -1,0 +1,58 @@
+
+.encabezado { background-color: black; color:white; font-size:  10px; font-family: 'Roboto', sans-serif; }
+
+.menu{display:flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    background-color: #F0A83E;
+    font-family:'Roboto', sans-serif ;
+    padding-top: 20px;  
+    padding-bottom: 20px ;         
+    color:white;}
+
+.items-menu{display:flex;
+        margin-left: 60%;
+        }
+
+    
+
+.banner{position: relative;
+    display:inline-block;}
+
+    .titulo{
+        position: absolute;
+        top:120px;
+        left:63%;
+        background-color: white;
+        text-align: center;
+        font-family:'Roboto', sans-serif ;
+        font-size:  30px;}
+
+    .texto1{
+        position:absolute;
+        top: 180px;
+        left: 68%;
+        font-family:'Roboto', sans-serif ;
+        font-size: 16px;}
+        
+
+.boton {position:absolute;
+    top:220px;
+    left: 70%;
+    color:white;text-align: center;text-transform: uppercase ;background-color:#F0A83E;font-family:'Roboto', sans-serif; padding-bottom: 15px; padding-top: 15px; padding-left: 23px;padding-right: 23px;}
+
+h3{font-family:'Roboto', sans-serif;text-align: center; font-weight: 700; font-size: 40px; }
+
+.huella{text-align: center;}
+
+.precio{color:#F0A83E}
+
+.contacto {background-color: #3C2313; padding-bottom: 5px; padding-top: 5px;}
+
+.derechos{text-align: center; background-color: #222222;
+color: white;
+font-family:'Roboto', sans-serif 
+;font-size: 10px;
+font-weight: 700;
+padding-bottom: 1px ;
+padding-top: 1px;}

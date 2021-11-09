@@ -1,0 +1,21 @@
+
+div{
+height: 200px;
+background-color:#E5E5E5 ;
+display:flex;
+justify-content: center;
+align-items: center;}
+
+h1{background-color: #C4C4C4 ; color: #005677 ; font-family: 'Times New Roman', Times, serif; text-align: center; text-transform: uppercase; padding-top: 20px ;padding-bottom: 20px }
+
+h2 {background-color: #C4C4C4 ; color: #005677 ; font-family: 'Times New Roman', Times, serif;text-transform: uppercase;padding-top: 5px ;padding-bottom: 5px}
+
+.datos-personales{ font-style: italic; font-weight: bold;font-family: 'Times New Roman', Times, serif;}
+
+span {font-weight: lighter; font-family: 'Times New Roman', Times, serif; font-style: normal;}
+
+.años-negrita {font-weight: bold;font-family: 'Times New Roman', Times, serif;}
+
+.alineado{margin-left: 1cm;font-weight: lighter; font-family: 'Times New Roman', Times, serif; font-style: normal;}
+
+p {padding-top: 10px ;padding-bottom: 10px;Font-size: 20x; text-align:center; Font-family:'Times New Roman', Times, serif ;background-color:#005677; color:white}
