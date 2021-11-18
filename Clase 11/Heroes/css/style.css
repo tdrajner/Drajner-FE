@@ -1,0 +1,135 @@
+* {font-family: 'Roboto', sans-serif;
+margin:0%;
+box-sizing: border-box;}
+
+
+header {display:block;
+    position:sticky;
+    top: 15px ;
+    z-index: 10;}
+
+    
+h3{
+background-color: #1CD1B0;
+font-size: 15px;
+height: 38px;
+padding: 10px;
+}
+
+h1{
+background-color:#00669F;
+height: 101px;
+padding:28px;
+box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25); 
+}
+
+section{display: flex;
+    height: 950px; }
+
+.batman1{
+    position: absolute;
+    margin: 32px;
+    top: 150px;
+    height: 527px;
+    width: 300px;
+    background-color: #F3F3F3 ;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+.gothan {
+    position:absolute;
+    }
+
+.corazon{ position:absolute;
+    margin:10px;
+    }
+
+.titulobatman{position:relative;
+    text-transform: uppercase;
+    top:150px;
+    left:100px;
+}
+
+.textos{position:relative;
+top:200px;}
+
+.boton1{ position: relative;
+    background-color: #00669F ;
+color:white;
+width:128px;
+height:48px;
+left: 85px;
+top: 180px;
+}
+
+.cara-batman{position:relative;
+    top:140px;
+    left: 80px;
+    border-radius:50%;
+}
+
+.textos {
+    position:relative;     
+    width:267px;
+    height:113 px;
+    top:160px;
+    margin-left: 20px;
+}
+
+.Harleyquinn{
+    position: absolute;
+    left:462px;
+    top: 180px;
+    height: 527px;
+    width: 300px;
+    background-color: #F3F3F3 ;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+.caras2{position:relative;
+    top: -60px;
+    left: 80px;
+    border-radius:50%;
+}
+
+.tituloharley{ position:relative;
+    top: -50px;
+    left: 80px;}
+
+.textos2{position:relative;     
+    width:267px;
+    height:113 px;
+    top: -40px;
+    margin-left: 20px;
+}
+
+.boton2{ position: relative;
+    background-color: #00669F ;
+color:white;
+width:128px;
+height:48px;
+left: 85px;
+top: -15px;
+}
+
+
+.batman2{
+    position: absolute;
+    left:892px;
+    top: 180px;
+    height: 527px;
+    width: 300px;
+    background-color: #F3F3F3 ;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);}
+
+
+    .titulobatman2{position:relative;
+        text-transform: uppercase;
+        top:-50px;
+        left:80px;
+    }
+
+.footer {background-color: #00669F;
+    color:white;
+    font-size: 16px;
+    padding: 16px;}
